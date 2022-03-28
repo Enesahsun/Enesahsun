@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**Enesahsun/Enesahsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Enes Ahşun. Data Analyst Team Lead - KEYVAN Aviation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=enesahsaun)
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesahsun&show_icons=true)
+
+## Graduation
+
+B.S in Geomatic Engineering |  [Istanbul Technical University](https://www.itu.edu.tr/)
+
+
+## I'm currently working on 🔭
+
+Data Analyst Team Lead - KEYVAN Aviation
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/enesahsun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enes-ah%C5%9Fun-379321170)
