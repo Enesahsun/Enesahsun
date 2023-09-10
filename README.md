@@ -14,7 +14,7 @@ B.S in Geomatic Engineering |  [Istanbul Technical University](https://www.itu.e
 
 ## I'm currently working on 🔭
 
-Data Analyst Team Lead - KEYVAN Aviation
+Business & Data Analyst at elitBI
 
 ## Contact Me 📫
 
