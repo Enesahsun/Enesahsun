@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Enes Ahşun. Data Analyst Team Lead - KEYVAN Aviation
+I'm Enes Ahşun. Business & Data Analyst - elitBI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=enesahsaun)
 
